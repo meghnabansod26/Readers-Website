@@ -1,0 +1,28 @@
+Develops a Reading Website using Bootstrap.
+Included bootstrap classes, component, and grid method.
+Website is Responsive.
+
+Used Visual Studio Code platform for Coding and Brave and Chrome Browser used for presentation of html template and all file.
+
+
+In Index.html file there is code of Home page.
+In library there is dropdown where there is three section Story Book, Historical Book and AutoBiography.
+in story.html there is code of story page, in historical.html there is code of historical book page while in Biography.html there is code of AutoBiography.
+
+There are 6 html file, 2 javascript file, and 1 css.
+
+In script.js there is code of form content of about page, while in scipt2.js there is code of form content of contact page.
+
+In style.css there is extra css which used to develop website.
+
+In Images folder there are images which is used in website.
+
+
+
+
+
+
+
+
+
+
